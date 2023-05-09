@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lm2596_ok")(type "Legacy")(uri "C:/Users/Utilisateur/Desktop/KiCad-master/LM2596_step_down_converter/LM2596_step_down_converter_lib/lm2596_ok.lib")(options "")(descr ""))
+  (lib (name "xl4015")(type "Legacy")(uri "C:/Users/Utilisateur/Desktop/KiCad-master/XL4015_step_down_converter/XL4015_converter_lib/xl4015.lib")(options "")(descr ""))
+  (lib (name "yaaj_dcdc_stepdown_lm2596")(type "Legacy")(uri "${KIPRJMOD}/KiCad-Chinese_Modules-main/DCDC_StepDown_LM2596/Symbols/yaaj_dcdc_stepdown_lm2596.lib")(options "")(descr ""))
+  (lib (name "MSTB2,5 -5,08")(type "Legacy")(uri "${KIPRJMOD}/MSTB2,5 -5,08.lib")(options "")(descr ""))
+)
